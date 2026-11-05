@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-audit-nuxt",
+  "capabilityKey": "liberusoftware/module-cms-audit",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-audit-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/cms-audit.md",
+  "presentationPlan": "projects/cms/nuxt/cms-audit.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
